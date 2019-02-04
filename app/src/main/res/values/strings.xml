@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">uts_Riyan</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Kosong">Kosong</string>
+    <string-array name="jenis_kelamin">
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
